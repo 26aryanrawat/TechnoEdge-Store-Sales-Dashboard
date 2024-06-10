@@ -1,1 +1,2 @@
 # TechnoEdge-Store-Sales-Dashboard
+Techno-Edge is a retail company that sells a wide range of electronic products, including smartphones, laptops, tablets, and accessories. The company operates multiple stores across various regions and also has an online presence. Despite a robust product lineup and a strong market presence, the management team at Techno-Edge is keen on leveraging data to drive sales growth, optimize inventory, and enhance customer satisfaction. They have gathered a large amount of sales data but lack the insights needed to make data-driven decisions.
